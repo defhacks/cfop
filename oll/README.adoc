@@ -9,9 +9,10 @@ image::oll2.png[]
 |Case |Diagram |Algorithm |Comments
 
 |1  | image:oll1.png[] |
-algs go here
-algs go here
-algs go here
+R U2 R2' F R F' U2 R' F R F'
+R U B' R B R2 U' R' F R F'
+y R U' R2 D' r U' r' D R2 U R'
+r U R' U R' r2 U' R' U R' r2 U2 r'
 |
 Comments go here.
 
