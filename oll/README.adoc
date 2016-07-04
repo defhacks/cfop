@@ -1,0 +1,19 @@
+.OLL Algorithms
+[width="80%",cols="1,^3,^3,10",options="header"]
+|=========================================================
+|Case |Diagram |Algorithm |Comments
+
+|1  | image:oll1.png |
+algs go here
+algs go here
+algs go here
+|
+Comments go here.
+
+
+| 2 | image:oll2.png2 |
+algs go here
+algs go here
+|
+Comments go here.
+|=========================================================
