@@ -71,11 +71,11 @@ R U R' U' R' F R2 U' R' U' R U R' F'
 |
 Comments go here.
 | Ua | image:pll_Ua.png[] |
-R2 U' R' U' R U R U R U' R R U' R U R U R U' R' U' R2
+R2 U' R' U' R U R U R U' R
 |
 Comments go here.
 | Ub | image:pll_Ub.png[] |
-R' U R' U' R' U' R' U R U R2 R2 U R U R' U' R' U' R' U R'
+R' U R' U' R' U' R' U R U R2
 |
 Comments go here.
 | V | image:pll_V.png[] |
