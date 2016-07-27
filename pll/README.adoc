@@ -87,7 +87,7 @@ F R U' R' U' R U R' F' R U R' U' R' F R F'
 |
 Comments go here.
 | Z | image:pll_Z.png[] |
-M2' U' M2' U' M' U2 M2' U2 M'U2
+M2' U' M2' U' M' U2 M2' U2 M' U2
 |
 Comments go here.
 
