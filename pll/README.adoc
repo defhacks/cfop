@@ -1,0 +1,94 @@
+.PLL Algorithms
+[width="80%",cols="1,^3,^3l,10",options="header"]
+|=========================================================
+|Case |Diagram |Algorithm |Comments
+
+| Aa  | image:pll_Aa.png[] |
+x R' U R' D2 R U' R' D2 R2 x'
+|
+The line between (x R') and (l) is blurry.
+
+| Ab | image:pll_Ab.png[] |
+x R2 D2 R U R' D2 R U' R x'
+|
+Comments go here.
+
+| E | image:pll_E.png[] |
+x' R U' R' D R U R' D' R U R' D R U' R' D' x
+|
+All hail the lefty D'
+
+| F | image:pll_F.png[] |
+R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R
+|
+aka R' U' F' (T Perm)
+| Ga | image:pll_Ga.png[] |
+R2 u R' U R' U' R u' R2 y' R' U R
+|
+Comments go here.
+| Gb | image:pll_Gb.png[] |
+F' U' F R2 u R' U R U' R u' R2'
+|
+Comments go here.
+| Gc | image:pll_Gc.png[] |
+R U R' U' D R2 U' R U' R' U R' U R2 D'
+|
+(U' D) simultaneously for great justice
+| Gd | image:pll_Gd.png[] |
+R2 u' R U' R U R' D x' U2 r U' r'
+|
+Comments go here.
+| H | image:pll_H.png[] |
+M2 U M2 U2 M2 U M2
+|
+Comments go here.
+| Ja | image:pll_Ja.png[] |
+R' U L' U2 R U' R' U2 R L
+|
+Comments go here.
+| Jb | image:pll_Jb.png[] |
+R U R' F' R U R' U' R' F R2 U' R' U'
+|
+You take a R U R' F' from the end, and you put it in front (sung to the tune of the Jenga song).
+| Na | image:pll_Na.png[] |
+R U R' U (R U R' F' R U R' U' R' F R2 U' R') U2 R U' R'
+|
+setup, Jb, undo
+| Nb | image:pll_Nb.png[] |
+R' U R U' R' F' U' F R U R' F R' F' R U' R
+|
+Comments go here.
+| Ra | image:pll_Ra.png[] |
+R U' R' U' R U R D R' U' R D' R' U2 R' U'
+|
+Comments go here.
+| Rb | image:pll_Rb.png[] |
+R' U2 R U2 R' F R U R' U' R' F' R2' U'
+|
+Comments go here.
+| T | image:pll_T.png[] |
+R U R' U' R' F R2 U' R' U' R U R' F'
+|
+Comments go here.
+| Ua | image:pll_Ua.png[] |
+R2 U' R' U' R U R U R U' R R U' R U R U R U' R' U' R2
+|
+Comments go here.
+| Ub | image:pll_Ub.png[] |
+R' U R' U' R' U' R' U R U R2 R2 U R U R' U' R' U' R' U R'
+|
+Comments go here.
+| V | image:pll_V.png[] |
+R' U R' d' R' F' R2 U' R' U R' F R F
+|
+Comments go here.
+| Y | image:pll_Y.png[] |
+F R U' R' U' R U R' F' R U R' U' R' F R F'
+|
+Comments go here.
+| Z | image:pll_Z.png[] |
+M2' U' M2' U' M' U2 M2' U2 M'U2
+|
+Comments go here.
+
+|=========================================================
