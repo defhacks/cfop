@@ -23,21 +23,27 @@ R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R
 |
 aka R' U' F' (T Perm)
 | Ga | image:pll_Ga.png[] |
-R2 u R' U R' U' R u' R2 y' R' U R
+R2 U R' U R' U' R U' R2 D U' R' U R D'
 |
-Comments go here.
+Drew Brads lists it as an option https://www.youtube.com/watch?v=r4dI0HkJYRk
+Mats Valk seems to use it http://algdb.net/Users/User/104
+Cornelius Dieckmann seems to use it: http://cubesolv.es/solve/4273
+Bill Wang seems to use it: http://cubesolv.es/solve/1016
 | Gb | image:pll_Gb.png[] |
-F' U' F R2 u R' U R U' R u' R2'
+R' U' R U D' R2 U R' U R U' R U' R2 D
 |
-Comments go here.
+Also, on Drew Brads list.
+Lucas Etter seems to use it: http://cubesolv.es/solve/4318
+Alternate given in CYO's G-Perms like a pro: https://www.youtube.com/watch?v=bBIgtrq0lFc
 | Gc | image:pll_Gc.png[] |
+R2 U' R U' R U R' U R2 D' U R U' R' D
+|
+the least popular of the RUD options
+Robert Yau solve using it: http://cubesolv.es/solve/1421
+| Gd | image:pll_Gd.png[] |
 R U R' U' D R2 U' R U' R' U R' U R2 D'
 |
-(U' D) simultaneously for great justice
-| Gd | image:pll_Gd.png[] |
-R2 u' R U' R U R' D x' U2 r U' r'
-|
-Comments go here.
+rounding out the RUD G-perms (0.83 by CYO https://www.youtube.com/watch?v=bBIgtrq0lFc )
 | H | image:pll_H.png[] |
 M2 U M2 U2 M2 U M2
 |
