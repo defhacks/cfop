@@ -1,0 +1,105 @@
+Sources:
+https://www.youtube.com/watch?v=amv6YoPH8wI - drew brads sub-1
+Algs used in order:
+U: M2 u' M' u2 M' u' M2
+U: M2 U' M U2 M' U' M2
+Z: M' U' M2 U' M2 U' M' U2 M2
+H: M2 U' M2 U2 M2 U' M2
+Aa: x R' U R' D2 R U' R' D2 R2
+Ab: x R2 D2 R U R' D2 R U' R
+E: x' R U' R' D R U R' D' R U R' D R U' R' D'
+Jb: R U R' F' R U R' U' R' F R2 U' R'
+Ja: x U2 r' U' r U2 l' U R' U' R2
+R: R' U2 R' D' R U' R' D R U R U' R' U' R
+R: R U' R' U' R U R D R' U' R D' R' U2 R'
+G: R2 u' R U' R U R' D x' U2 r U' r'
+G: R2 u R' U R' U' R u' R2 y' R' U R
+G: R U R' U' D R2 U' R U' R' U R' U R2 D'
+G: R' d' F R2 u R' U R U' R u' R2
+Y: F R U' R' U' R U R' F' R U R' U' R' F R F'
+T: R U R' U' R' F R2 U' R' U' R U R' F'
+N: z (D R' U R2 D' R U')*2
+N: z (D' R U' R2 D R' U)*2
+V: z D' R2 D R2 U R' D' R U' R U R' D R U'
+F: R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R
+
+Sergey Ryabko sub-1 PLLs - https://www.youtube.com/watch?v=nJf7ZWizng8
+Ua: M2 U M U2 M' U M2
+Ua: R2' U' F B' R2 F' B U' R2'
+Ua: R2 U' R' U' R U R U R U' R
+Ub: M2 U' M U2 M' U' M2
+Ub: R' U R' U' R' U' R' U R U R2'
+Z: M' U M2 U M2 U M' U2 M2
+H: M2 U M2 U2 M2 U M2
+Aa: x R' U R' D2 R U' R' D2 R2
+Ab: x R2' D2 R U R' D2 R U' R
+Ab: x' R U' R z' R2 U' L U R2 U2'
+E: x' R U' R' D R U R' D' R U R' D R U' R' D'
+T: R U R' U' R' F R2 U' R' U' R U R' F'
+F: R' U2 R' d' R' F' R2 U' R' U R' F R U' F
+Ja: L' U R' z R2 U R' U' R2 U D
+Jb: R U R' F' R U R' U' R' F R2 U' R' (U?)
+Ga: R2 u R' U R' U' R u' R2 y' R' U R
+Gb: F' U' F R2 u R' U R U' R u' R2'
+Gc: R2' u' R U' R U R u R2 B U' B'
+Gd: f R f' R2 u' R U' R' U R' u R2
+Ra: R U' R' U' R U R D R' U' R D' R' U2 R'
+Rb: R' U2 R U2 R' F R U R' U' R' F' R2 U
+V: R' U R' d' R' F' R2 U' R' U l' U R U
+Y: F R U' R' U' R U R' F' R U R' U' R' F R F'
+Na: z R U R' D R2 U' R U D' R' D R2 U' R D'
+Nb: L' U R' z R2 U R' U' D R D' R2 U R' D
+
+Chris Olson PLLs - https://www.youtube.com/watch?v=C5NLYBSbbtU
+Aa: x R' U R' D2 R U' R' D2 R2
+Ab: U' x R2 D2 R U R' D2 R U' R
+E: x' R U' R' D R U R' D' R U R' D R U' R' D'
+F: U' R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R
+Ga: R2 u R' U R' U' R u' R2 y' R' U R
+Gb: U F' U' F R2 u R' U R U' R u' R2
+Gc: R U R' U' D R2 U' R U' R' U R' U R2 D'
+Gd: R2 u' R U' R U R' D x' U2 r U' r'
+H: M2 U M2 U2 M2 U M2
+Ja: R' U L' U2 R U' R' U2 R r
+Jb: R U R' F' R U R' U' R' F R2 U' R'
+Na: z U R' D R2 U' R U D' R' D R2 U' R D'
+Nb: z U' R D' R2 U R' D U' R D' R2 U R' D
+Ra: R U R' F' R U2 R' U2 R' F R U R U2 R'
+Rb: R' U2 R U2 R' F R U R' U' R' F R2 U'
+T: R U R' U' R' F R2 U' R' U' R U R' F'
+Ua: M2 U' M U2 M' U' M2
+Ub: M2 U M U2 M' U M2
+V: z D’ R2 D R2 U R’ D’ R U’ R U R’ D R U’
+Y: F R U' R' U' R U R' F' R U R' U' R' F R F'
+Z: M2 U M2 U M' U2 M2 U2 M' 
+
+Seung Hyuk Nahm PLLs - https://www.youtube.com/watch?v=kHW-_mS4H7Y:
+H Perm: M2' U' M2' U2 M2' U' M2'
+Ua Perm: R2 U' R' U' R U R U R U' R R U' R U R U R U' R' U' R2
+Ub Perm: R' U R' U' R' U' R' U R U R2 R2 U R U R' U' R' U' R' U R'
+Z Perm: M2' U' M2' U' M' U2 M2' U2 M'U2
+Aa Perm: (x) R' U R' D2 R U' R' D2 R2 (x')
+Ab Perm: (x) R2 D2 R U R' D2 R U' R (x')
+E Perm: (x') R U' R' D R U R' D' R U R' D R U' R' D' (x)
+F Perm: R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R
+Ga Perm: R2 u R' U R' U' R u' R2 (y') R' U R
+Gb Perm: R' U' R (y) R2 u R' U R U' R u' R2
+Gc Perm: F' U' F R2 u R' U R U' R u' R2
+Gd Perm: R U R' (y') R2 u' R U' R' U R' u R2
+Ja Perm: R' U L' U2 R U' R' U2 R L
+Jb Perm: R U R' F' R U R' U' R' F R2 U' R' U'
+Na Perm: R U R' U (R U R' F' R U R' U' R' F R2 U' R') U2 R U' R'
+Nb Perm: R' U R U' R' F' U' F R U R' F R' F' R U' R
+Ra Perm: R U' R' U' R U R D R' U' R D' R' U2 R' U'
+Rb Perm: R' U2 R U2 R' F R U R' U' R' F' R2' U'
+T Perm: R U R' U' R' F R2 U' R' U' R U R' F'
+V Perm: R' U R' d' R' F' R2 U' R' U R' F R F
+Y Perm: F R U' R' U' R U R' F' R U R' U' R' F R F'
+
+
+Kennan PLLs - https://www.youtube.com/watch?v=TcJoBsS3HGk
+Aa: x R' U R' D2 R U' R' D2 R2
+Ab: x R2' D2 R U R' D2 R U' R x'
+E: x' R U' R' D R U R' D' R U R' D R U' R' D'
+F: R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R
+Ga: 
