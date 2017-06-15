@@ -65,7 +65,7 @@ R' U R U' R' F' U' F R U R' F R' F' R U' R
 |
 Comments go here.
 | Ra | image:pll_Ra.png[] |
-R U' R' U' R U R D R' U' R D' R' U2 R' U'
+y R U' R' U' R U R D R' U' R D' R' U2 R' U'
 |
 Comments go here.
 | Rb | image:pll_Rb.png[] |
@@ -89,8 +89,11 @@ y2 M2 U' M U2 M' U' M2
 The R3 is basically a fingertrick variant for avoiding the regrip
 | V | image:pll_V.png[] |
 R' U R' d' R' F' R2 U' R' U R' F R F
+R' U2 R U2 L U' R' U L' U L U' R U L'
+R' U2 R U2 L U' R' z R U' R U R' D R U'^(OH)^
 |
-Some of the RUD algs are tempting
+The OH is written as "R' U2 R U2 L U' R' U L' U L U' R U L'" a lot of the time, but for execution specifics,
+check https://www.youtube.com/watch?v=_Z2bgzObtY8
 | Y | image:pll_Y.png[] |
 F R U' R' U' R U R' F' R U R' U' R' F R F'
 |
