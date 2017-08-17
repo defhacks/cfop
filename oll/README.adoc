@@ -16,10 +16,228 @@ r U R' U R' r2 U' R' U R' r2 U2 r'
 |
 It all starts with a dot.
 
-
 | 2 | image:oll2.png[] |
-algs go here
-algs go here
+F R U R' U' F' f R U R' U' f'
 |
 Comments go here.
+| 3 | image:oll3.png[] |
+
+|
+Comments go here.
+| 4 | image:oll4.png[] |
+alg goes here
+|
+comments go here.
+| 5 | image:oll5.png[] |
+r' U2 R U R' U r
+|
+comments go here.
+| 6 | image:oll6.png[] |
+r U2 R' U' R U' r'
+|
+comments go here
+| 7 | image:oll7.png[] |
+r U R' U R U2 r'
+|
+comments go here
+| 8 | image:oll8.png[] |
+y2 r' U' R U' R' U2 r
+|
+comments go here
+| 9 | image:oll9.png[] |
+alg goes here
+|
+comments go here
+| 10 | image:oll10.png[] |
+alg goes here
+|
+comments go here
+| 11 | image:oll11.png[] |
+alg goes here
+|
+comments go here
+| 12 | image:oll12.png[] |
+alg goes here
+|
+comments go here
+| 13 | image:oll13.png[] |
+alg goes here
+|
+comments go here
+| 14 | image:oll14.png[] |
+alg goes here
+|
+comments go here
+| 15 | image:oll15.png[] |
+alg goes here
+|
+comments go here
+| 16 | image:oll16.png[] |
+alg goes here
+|
+comments go here
+| 17 | image:oll17.png[] |
+alg goes here
+|
+comments go here
+| 18 | image:oll18.png[] |
+alg goes here
+|
+comments go here
+| 19 | image:oll19.png[] |
+alg goes here
+|
+comments go here
+| 20 | image:oll20.png[] |
+alg goes here
+|
+comments go here
+| 21 | image:oll21.png[] |
+alg goes here
+|
+comments go here
+| 22 | image:oll22.png[] |
+alg goes here
+|
+comments go here
+| 23 | image:oll23.png[] |
+alg goes here
+|
+comments go here
+| 24 | image:oll24.png[] |
+alg goes here
+|
+comments go here
+| 25 | image:oll25.png[] |
+alg goes here
+|
+comments go here
+| 26 | image:oll26.png[] |
+alg goes here
+|
+comments go here
+| 27 | image:oll27.png[] |
+alg goes here
+|
+comments go here
+| 28 | image:oll28.png[] |
+alg goes here
+|
+comments go here
+| 29 | image:oll29.png[] |
+alg goes here
+|
+comments go here
+| 30 | image:oll30.png[] |
+alg goes here
+|
+comments go here
+| 31 | image:oll31.png[] |
+alg goes here
+|
+comments go here
+| 32 | image:oll32.png[] |
+alg goes here
+|
+comments go here
+| 33 | image:oll33.png[] |
+alg goes here
+|
+comments go here
+| 34 | image:oll34.png[] |
+alg goes here
+|
+comments go here
+| 35 | image:oll35.png[] |
+alg goes here
+|
+comments go here
+| 36 | image:oll36.png[] |
+alg goes here
+|
+comments go here
+| 37 | image:oll37.png[] |
+alg goes here
+|
+comments go here
+| 38 | image:oll38.png[] |
+alg goes here
+|
+comments go here
+| 39 | image:oll39.png[] |
+alg goes here
+|
+comments go here
+| 40 | image:oll40.png[] |
+alg goes here
+|
+comments go here
+| 41 | image:oll41.png[] |
+alg goes here
+|
+comments go here
+| 42 | image:oll42.png[] |
+alg goes here
+|
+comments go here
+| 43 | image:oll43.png[] |
+alg goes here
+|
+comments go here
+| 44 | image:oll44.png[] |
+alg goes here
+|
+comments go here
+| 45 | image:oll45.png[] |
+alg goes here
+|
+comments go here
+| 46 | image:oll46.png[] |
+alg goes here
+|
+comments go here
+| 47 | image:oll47.png[] |
+alg goes here
+|
+comments go here
+| 48 | image:oll48.png[] |
+alg goes here
+|
+comments go here
+| 49 | image:oll49.png[] |
+alg goes here
+|
+comments go here
+| 50 | image:oll50.png[] |
+alg goes here
+|
+comments go here
+| 51 | image:oll51.png[] |
+alg goes here
+|
+comments go here
+| 52 | image:oll52.png[] |
+alg goes here
+|
+comments go here
+| 53 | image:oll53.png[] |
+alg goes here
+|
+comments go here
+| 54 | image:oll54.png[] |
+alg goes here
+|
+comments go here
+| 55 | image:oll55.png[] |
+alg goes here
+|
+comments go here
+| 56 | image:oll56.png[] |
+alg goes here
+|
+comments go here
+| 57 | image:oll57.png[] |
+alg goes here
+|
+comments go here
 |=========================================================
