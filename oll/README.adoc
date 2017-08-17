@@ -1,8 +1,3 @@
-
-image:oll1.png[]
-
-image::oll2.png[]
-
 .OLL Algorithms
 [width="80%",cols="1,^3,^3l,10",options="header"]
 |=========================================================
