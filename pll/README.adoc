@@ -49,9 +49,9 @@ M2 U M2 U2 M2 U M2
 |
 Comments go here.
 | Ja | image:pll_Ja.png[] |
-L' U' L F L' U' L U L F' L2 U L
+y' L' U' L F L' U' L U L F' L2 U L
 R' U L' U2 R U' R' U2 R L
-R' U2 R U R' U2 L U' R U L' ^(OH)^
+y R' U2 R U R' U2 L U' R U L' ^(OH)^
 |
 Comments go here.
 | Jb | image:pll_Jb.png[] |
